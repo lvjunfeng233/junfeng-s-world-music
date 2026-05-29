@@ -1,5 +1,4 @@
 # junfeng-s-world-music
-[index(1).html](https://github.com/user-attachments/files/28389402/index.1.html)
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
